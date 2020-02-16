@@ -1,0 +1,5 @@
+<?xml version = "1.0" standalone = "no"?>
+<?xml: stylesheet href = "style.css" type = "text/css"?>
+<message> 
+    <greeting> Hello World </greeting>
+</message>
