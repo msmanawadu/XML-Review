@@ -1,5 +1,5 @@
 <?xml version = "1.0" standalone = "no"?>
-<?xml: stylesheet href = "style.css" type = "text/css"?>
-<message> 
-    <greeting> Hello World </greeting>
+<?xml: stylesheet href = "/xsl1.xsl" type = "text/xsl"?>
+<message>
+<greeting>Hello World</greeting>
 </message>
